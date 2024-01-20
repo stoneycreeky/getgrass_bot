@@ -5,6 +5,8 @@
 
 `pip3 install loguru`
 
+`pip3 install  async-timeout`
+
 
 修改main函数中user_id和sock5代理列表
 
