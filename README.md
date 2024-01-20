@@ -1,7 +1,3 @@
-# 扫码加入交流群
-
-![image](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/36b45b13-fe65-4c5f-80f5-ea83aebecf01)
-
 # getgrass_bot
 
 `pip3 install websockets_proxy`
@@ -28,13 +24,3 @@ https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4
 `localStorage.getItem('userId')`
 
 打印的就是当前用户的user_id
-
-
-![0001](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/31d0e16e-df2f-443a-a141-910d16052ed9)
-
-
-无代码基础请直接使用带界面版本
-
-
-![3333](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/80e18c1f-da5d-40d4-a361-3506b44c6602)
-
